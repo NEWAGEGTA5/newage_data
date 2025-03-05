@@ -1,0 +1,28 @@
+{
+    "pdm": {
+        "adder": {
+            "id": 1,
+            "label": "Adder",
+            "trunk": 100000,
+            "price": 99000,
+            "speed": 0,
+            "model": "adder"
+        },
+        "t20": {
+            "id": 2,
+            "label": "T20",
+            "trunk": 100000,
+            "price": 99000,
+            "speed": 0,
+            "model": "t20"
+        },
+        "blista": {
+            "id": 3,
+            "label": "Blista",
+            "trunk": 100000,
+            "price": 99000,
+            "speed": 0,
+            "model": "blista"
+        }
+    }
+}
