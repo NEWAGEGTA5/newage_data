@@ -23,6 +23,14 @@
             "price": 99000,
             "speed": 0,
             "model": "blista"
+        },
+        "cogcabrio": {
+            "id": 4,
+            "label": "Cogcabrio",
+            "trunk": 100000,
+            "price": 99000,
+            "speed": 0,
+            "model": "cogcabrio"
         }
     }
 }
